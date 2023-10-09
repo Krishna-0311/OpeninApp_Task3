@@ -1,0 +1,9 @@
+"Definitely share your feedback in the comment section"
+Output: निश्चित रूप से टिप्पणी अनुभाग में अपनी प्रतिक्रिया साझा करें |
+
+"So even if it's a big video, I will clearly mention all the products"
+Output: इसलिए भले ही यह एक बड़ा वीडियो है, मैं स्पष्ट रूप से सभी उत्पादों का उल्लेख करूंगा |
+
+
+"I was waiting for my bag."
+Output: मैं अपने बैग का इंतजार कर रहा था। |
